@@ -3,7 +3,6 @@ import { Badge } from '../internal/Badge';
 
 @Component({
   tag: 'demo-section',
-  styleUrl: 'demo-section.css',
   shadow: true,
 })
 export class DemoSection {

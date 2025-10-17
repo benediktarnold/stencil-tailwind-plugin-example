@@ -2,7 +2,6 @@ import { Component, Host, h, Prop } from '@stencil/core';
 
 @Component({
   tag: 'demo-card',
-  styleUrl: 'demo-card.css',
   shadow: true,
 })
 export class DemoCard {

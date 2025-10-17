@@ -3,7 +3,6 @@ import { Link } from '../internal/Link';
 
 @Component({
   tag: 'footer-nav',
-  styleUrl: 'footer-nav.css',
   shadow: true,
 })
 export class FooterNav {
