@@ -31,7 +31,6 @@ const LinkToStencil: FunctionalComponent<{ to: string }> = ({ to }) => {
 
 @Component({
   tag: 'top-nav-bar',
-  styleUrl: 'top-nav-bar.css',
   shadow: true,
 })
 export class TopNavBar {
